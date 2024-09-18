@@ -63,11 +63,9 @@ def main():
         transition: background-color 0.3s ease;
         height: 40px;
         float: right;
-        align-items: center;
     }
     .stButton>button:hover {
         background-color: #073c5b;
-        align-items: center;
     }
     .footer {
         position: fixed;
