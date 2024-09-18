@@ -4,7 +4,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-api_key = "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" 
+api_key = st.secrets["groq"]["api_key"]
 client = Groq(api_key=api_key)
 
 WIKI_PAGE_URL = "https://en.wikipedia.org/wiki/Adrian_Carton_de_Wiart"
