@@ -116,8 +116,8 @@ def main():
     
     st.markdown(
     """
-    <h1 style='text-align: center;color: #ffffff;'>Welcome To \n Adrian Carton Chatbot</h1>
-    <h1 style='text-align: center;'></h1>
+    <h1 style='text-align: center;color: #ffffff;'>Welcome To</h1>
+    <h1 style='text-align: center;color: #ffffff;'>Adrian Carton Chatbot</h1>
     """,
     unsafe_allow_html=True
 )
