@@ -110,7 +110,7 @@ def main():
     </style>
     """, unsafe_allow_html=True)
 
-    st.markdown('<div class="main">', unsafe_allow_html=True)
+    st.markdown('<div class="main1">', unsafe_allow_html=True)
 
     #st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg/220px-Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg", image-align:center; width=200)
     
